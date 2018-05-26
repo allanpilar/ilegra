@@ -1,7 +1,0 @@
-br\com\test\ilegra\model\Salesman.class
-br\com\test\ilegra\schedule\ReadFilesScheduler.class
-br\com\test\ilegra\model\Sales.class
-br\com\test\ilegra\model\Customer.class
-br\com\test\ilegra\constants\Constants.class
-br\com\test\ilegra\schedule\service\FilesProcessService.class
-br\com\test\ilegra\schedule\service\FilesProcessService$1.class
